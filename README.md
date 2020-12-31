@@ -2,7 +2,7 @@
 
 
 
-- #### [The Most Wonderful Webinars of the Year] (https://www.pacb.com/blog/2020-webinars-of-the-year/)
+- #### [The Most Wonderful Webinars of the Year](https://www.pacb.com/blog/2020-webinars-of-the-year/)
 
 - #### [Thursday, December 10, 2020 | Sequencing 101: Ploidy, Haplotypes, and Phasing – How to Get More from Your Sequencing Data](https://www.pacb.com/blog/ploidy-haplotypes-and-phasing/)
 
