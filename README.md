@@ -1,5 +1,9 @@
 # Sequencing101
 
+
+
+- #### [https://www.pacb.com/blog/2020-webinars-of-the-year/](The Most Wonderful Webinars of the Year)
+
 - #### [Thursday, December 10, 2020 | Sequencing 101: Ploidy, Haplotypes, and Phasing – How to Get More from Your Sequencing Data](https://www.pacb.com/blog/ploidy-haplotypes-and-phasing/)
 
 - #### [Wednesday, November 25, 2020 | Better Apple Pies: HiFi Reads are a Perfect Recipe for High-Quality Apple Genome and Pangenome Assemblies ](https://www.pacb.com/blog/apple-pangenome/)
