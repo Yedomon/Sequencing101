@@ -13,3 +13,6 @@
 - #### [Wednesday, November 25, 2020 | Better Apple Pies: HiFi Reads are a Perfect Recipe for High-Quality Apple Genome and Pangenome Assemblies ](https://www.pacb.com/blog/apple-pangenome/)
 
 - #### [Thursday, October 1, 2020 | Webinar: Crops and Corvids get the Pangenome Treatment with HiFi Sequencing](https://www.pacb.com/blog/crops-and-corvids-pangenome/)
+
+
+- #### [Haplotype-resolved de novo assembly using phased assembly graphs with hifiasm](https://www.nature.com/articles/s41592-020-01056-5)
