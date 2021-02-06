@@ -32,6 +32,6 @@ ng
 [Video at this moment](https://youtu.be/RK0xDefnqB4?t=723) checking the final assembly by comparing gap and repeat content using ggplot2 graph
 
 
-![Quality of assemblies](3DTest.png)
+![Quality of assemblies](https://github.com/Yedomon/Sequencing101/blob/main/qualityasssembly.png?raw=true)
 
 
