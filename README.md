@@ -66,6 +66,10 @@ Just randomly get such an inspiring graph from [here](https://www.frontiersin.or
 
 
 
+![hifi_assemblers](https://github.com/Yedomon/Sequencing101/blob/main/Hifi_1.PNG?raw=true)
+
+
+
 
 
 
