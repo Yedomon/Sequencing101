@@ -40,6 +40,9 @@ Can use this graph to compare sesamum indicum assemblies from china pangenome fo
 The comparision of chromosome to a high quality reference genome is another way to check and compare genome assemblies. May use this plot to compare Goenbaek and Zhonzhi13 chromosomal scale assemblies in the phD document also
 
 
+![quality of assemblies 2](https://github.com/Yedomon/Sequencing101/blob/main/qualityasssembly1.png?raw=true)
+
+
 
 
 
