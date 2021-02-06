@@ -70,6 +70,17 @@ Just randomly get such an inspiring graph from [here](https://www.frontiersin.or
 
 
 
+Hifi_assemblers:
+
+
+- ### [01.IPA HiFi Genome Assembler](https://github.com/PacificBiosciences/pbipa)
+- ### [02.Hifiasm](https://github.com/chhylp123/hifiasm#:~:text=Hifiasm%20is%20a%20fast%20haplotype,competitive%20with%20the%20best%20assemblers.)
+- ### [03.Peregrine](https://github.com/cschin/Peregrine)
+- ### [04.CANU](https://github.com/marbl/canu)
+- ### [05.Flye](https://github.com/fenderglass/Flye)
+
+
+
 
 
 
