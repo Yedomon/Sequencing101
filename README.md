@@ -94,10 +94,10 @@ PacBio Day | [Workshop: Whole Genome Sequencing for De Novo Assembly of Any Orga
 
 
 
+[Assembly and Validation of Two Gap-free Reference Genomes for Xian/indica Rice Reveals Insights into Plant Centromere Architecture](https://www.biorxiv.org/content/10.1101/2020.12.24.424073v2.full.pdf)
 
 
-
-
+![examplegraphformythesis](https://github.com/Yedomon/Sequencing101/blob/main/graph_1.PNG?raw=true)
 
 
 
