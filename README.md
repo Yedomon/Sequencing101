@@ -90,6 +90,9 @@ Just randomly get such an inspiring graph from [here](https://www.frontiersin.or
 PacBio Day | [Workshop: Whole Genome Sequencing for De Novo Assembly of Any Organism](https://events.pacb.com/pagbio-day/agenda/session/442213)
 
 
+![benef](https://github.com/Yedomon/Sequencing101/blob/main/benef.PNG?raw=true)
+
+
 ![seq](https://github.com/Yedomon/Sequencing101/blob/main/Sequencing_pipeline.PNG?raw=true)
 
 
