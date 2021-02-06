@@ -24,7 +24,7 @@
 
 [Scaffolding explanation](https://youtu.be/RK0xDefnqB4?t=643)
 
-
+ng
 > Contigs assembly alone is not enough in this case and we still need scaffolding of the contigs. We use Hi-C for long-range scaffolding and the Bionano optical map for short range scafolding. I will not go in the details here but basically Optical map is crucial for resolving some of the wrong chimeric contigs and it is also very good in ordering and orientating the scaffolds. Hi-C is very good to join contigs to give chromosome size scaffold
 
 
