@@ -57,6 +57,18 @@ Just randomly get such an inspiring graph from [here](https://www.frontiersin.or
 
 
 
+- [Elucidating origins of grapevine agronomic traits with PacBio genome assembly and Iso-Seq analysis](https://youtu.be/IEghDVo6WKo)
+
+
+
+
+- [Improved Phased Assembly using HiFi data](https://youtu.be/HHLJfTByNts)
+
+
+
+
+
+
 
 
 
