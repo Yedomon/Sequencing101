@@ -46,7 +46,7 @@ The comparision of chromosome to a high quality reference genome is another way 
 
 
 
-Just randomly get such an inspiring graph from [here](https://www.frontiersin.org/articles/10.3389/fmicb.2018.00660/full) showing comparative of pathogen genomes. Can be apply to my case.
+Just randomly get such an inspiring graph from [here](https://www.frontiersin.org/articles/10.3389/fmicb.2018.00660/full) showing comparative of pathogen genomes. Can be applied to my fungal genome project case.
 
 ![Graph0](https://www.frontiersin.org/files/Articles/308142/fmicb-09-00660-HTML/image_m/fmicb-09-00660-g001.jpg)
 
