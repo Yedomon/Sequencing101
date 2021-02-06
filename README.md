@@ -81,6 +81,12 @@ Hifi_assemblers:
 
 
 
+Hifi free datasets
+
+![Hifi](https://github.com/Yedomon/Sequencing101/blob/main/public_hifi_data.PNG?raw=true)
+
+
+
 
 
 
