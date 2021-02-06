@@ -53,5 +53,22 @@ Just randomly get such an inspiring graph from [here](https://www.frontiersin.or
 
 
 
+- PacBio webinar February 6 2021: Comparative Genomic Analysis in Sorghum Highlights the Extent of Structural Variations | [Video](https://youtu.be/maOj1iQf4ys)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
