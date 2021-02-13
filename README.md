@@ -1,5 +1,7 @@
 # Sequencing101
 
+- #### [Friday, February 12, 2021 | LeafGo: A Workflow That Enables High-Quality Seven-Day Plant Genome Assembly ](https://www.pacb.com/blog/leafgo-plant-genome-workflow/)
+
 - #### [Wednesday, March 25, 2020 | The Evolution of DNA Sequencing Tools](https://www.pacb.com/blog/the-evolution-of-dna-sequencing-tools/)
 
 - #### [Tuesday, July 7, 2020 | From DNA to Discovery – The Steps of SMRT Sequencing](https://www.pacb.com/blog/steps-of-smrt-sequencing/)
