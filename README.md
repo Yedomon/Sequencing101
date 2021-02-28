@@ -1,5 +1,7 @@
 # Sequencing101
 
+- #### [SENCKENBERG BIODIVERSITY GENOMICS SYMPOSIUM 21 April 2021](https://events.pacb.com/senckenberg-biodiversity/page/1723886/tutorials-and-resources)
+
 - #### [Friday, February 12, 2021 | LeafGo: A Workflow That Enables High-Quality Seven-Day Plant Genome Assembly ](https://www.pacb.com/blog/leafgo-plant-genome-workflow/)
 
 - #### [Wednesday, March 25, 2020 | The Evolution of DNA Sequencing Tools](https://www.pacb.com/blog/the-evolution-of-dna-sequencing-tools/)
