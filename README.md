@@ -1,5 +1,12 @@
 # Sequencing101
 
+[Unleashing the Power of HiFi Sequencing - How the Sequel IIe System Empowers Life Scientists](https://youtu.be/XjK8HIOQbho)
+
+
+![omage](https://github.com/Yedomon/Sequencing101/blob/main/accuracy.png?raw=true)
+
+
+
 - #### [SENCKENBERG BIODIVERSITY GENOMICS SYMPOSIUM 21 April 2021](https://events.pacb.com/senckenberg-biodiversity/page/1723886/tutorials-and-resources)
 
 - #### [Friday, February 12, 2021 | LeafGo: A Workflow That Enables High-Quality Seven-Day Plant Genome Assembly ](https://www.pacb.com/blog/leafgo-plant-genome-workflow/)
