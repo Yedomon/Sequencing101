@@ -6,6 +6,13 @@
 ![omage](https://github.com/Yedomon/Sequencing101/blob/main/accuracy.png?raw=true)
 
 
+Computing env
+
+
+
+![d](https://github.com/Yedomon/Sequencing101/blob/main/computing%20requirement.png?raw=true)
+
+
 
 - #### [SENCKENBERG BIODIVERSITY GENOMICS SYMPOSIUM 21 April 2021](https://events.pacb.com/senckenberg-biodiversity/page/1723886/tutorials-and-resources)
 
