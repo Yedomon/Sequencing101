@@ -1,5 +1,11 @@
 # Sequencing101
 
+
+[Oxford Nanopore Technology: revolutionizing genomics research in plants](https://www.sciencedirect.com/science/article/abs/pii/S1360138521003101)
+
+
+
+
 [Unleashing the Power of HiFi Sequencing - How the Sequel IIe System Empowers Life Scientists](https://youtu.be/XjK8HIOQbho)
 
 
