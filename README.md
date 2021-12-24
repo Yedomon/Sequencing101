@@ -1,6 +1,10 @@
 # Sequencing101
 
 
+https://github.com/sirselim/jetson_nanopore_sequencing
+
+
+
 [Oxford Nanopore Technology: revolutionizing genomics research in plants](https://www.sciencedirect.com/science/article/abs/pii/S1360138521003101)
 
 ![img](https://github.com/Yedomon/Sequencing101/blob/main/nanopore.jfif)
