@@ -1,6 +1,14 @@
 # Sequencing101
 
 
+
+Price Nanopore
+
+
+
+![img](https://github.com/Yedomon/Sequencing101/blob/main/price_nano.PNG)
+
+
 https://github.com/sirselim/jetson_nanopore_sequencing
 
 
