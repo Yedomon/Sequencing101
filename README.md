@@ -1,6 +1,32 @@
 # Sequencing101
 
 
+Tres bon argumentairer pour l'usage de la genomique en matiere de plante. C'est un article de KeyGene dans le [blog nanopore](https://nanoporetech.com/about-us/news/blog-keygene-next-level-crop-reference-genomes-using-plant-trained-basecallers-and)
+
+> Genome sequencing has become an indispensable tool in plant breeding research, through which genetic variation of individual varieties at nucleotide precision can be revealed. Plant breeding companies use reference genomes to:
+
+  - effectively develop trait-linked markers and discover genes
+  - perform comparative genomics to elucidate breeding history
+  - dissect the genetic architecture of important traits and link them to haplotypes
+  - expand trait discovery approaches beyond SNP-based analysis
+
+The insights obtained using a reference genome enable better and faster selection of important breeding trait values in the breeding process and therefore allow to bring new varieties to the market faster.
+
+
+Ils ont mis aussi les 4C avec le 4eme C comme etant le cout in contrast avec le computing de PacBio. Tres fun!
+
+Correctness, Completeness, Contiguity and Cost, (also dubbed as the 4C’s) are of main importance with regard to generating reference genomes. High contiguity (i.e. Telomere-to-Telomere) and completeness can already be obtained by isolating High Molecular Weight (HMW) genomic DNA, in combination with (ultra) long Oxford Nanopore sequencing.
+
+
+Ce qui m'a le plus impressionner c'est le processus de assembly and annotation en une semaine
+
+
+very impressive
+
+
+![img]()
+
+
 
 Price Nanopore
 
